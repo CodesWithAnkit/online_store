@@ -1,0 +1,11 @@
+{
+  "name": "creat-react-app",
+  "version": "16.6.8",
+  "description": "non",
+  "main": "lsdkj",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
